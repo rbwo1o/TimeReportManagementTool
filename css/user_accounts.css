@@ -1,0 +1,9 @@
+input{
+    margin: 1%;
+}
+
+select, option{
+    padding: 1%;
+    margin-bottom: 1%;
+}
+

@@ -1,0 +1,10 @@
+#date_search{
+    background-color: rgb(128, 0, 0);
+    color: white;
+}
+
+#date_search:hover{
+    color: rgb(128, 0, 0);
+    background-color: white;
+    transition-duration: 1s;
+}

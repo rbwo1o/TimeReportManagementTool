@@ -1,0 +1,11 @@
+#mail{
+    background-color: rgb(128, 0, 0);
+    border: solid 1px rgb(128, 0, 0);
+    color: white;
+}
+
+#mail:hover{
+    color: rgb(128, 0, 0);
+    background-color: white;
+    transition-duration: 1s;
+}

@@ -1,0 +1,26 @@
+input{
+    margin: 1%;
+
+}
+
+select, option{
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+.title{
+    padding: 1%;
+    margin-top: 5%;
+}
+
+.color-btn{
+    font-weight: bold;
+}
+
+form{
+    margin-bottom: 3%;
+}
+
+.user-info{
+    font-family: calibri;
+}

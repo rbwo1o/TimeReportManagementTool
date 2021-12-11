@@ -1,0 +1,51 @@
+nav{
+    background-color: rgb(128, 0, 0);
+}
+
+nav .navbar-nav li a{
+    color: white !important;
+    
+}
+
+nav .navbar-nav li a:hover{
+    border-radius: 25px;
+    background-color: white !important;
+    color: rgb(128, 0, 0) !important;
+    transition-duration: 1s;
+    
+}
+
+nav .navbar-brand:hover{
+    padding-right: 1%;
+    padding-left: 1%;
+    border-radius: 25px;
+    background-color: white !important;
+    color: rgb(128, 0, 0) !important;
+    transition-duration: 1s;
+}
+
+nav .navbar-nav li .drop-link{
+    color: white !important;
+}
+
+
+nav .navbar-nav .dropdown-menu{
+    background-color: rgb(128, 0, 0);
+}
+
+
+.main_title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+/* Slidenav 4.1.0-alpha.2 ( https://github.com/tightcode/slidenav ) */
+.dropdown-menu.collapsing {
+    display: block;
+}
+
+#logo, #title{
+    margin: 2%;
+}
+

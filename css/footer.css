@@ -1,0 +1,23 @@
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    padding-top: 0.2%;
+    border-top: 1px solid black;
+}
+
+.footer-title{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+h6{
+    font-size: 15px;
+    font-family: calibri;
+    color: rgb(128, 0, 0);
+}
+
+.me{
+    text-decoration: underline;
+}
